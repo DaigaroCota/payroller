@@ -1,0 +1,17 @@
+# Dependencies
+node_modules
+
+# Environment
+.env
+
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+
+
+#Payroll files
+scripts/payroll/payroll.config.json
